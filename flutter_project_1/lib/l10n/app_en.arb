@@ -1,0 +1,22 @@
+{
+  "profileTitle": "User Profile",
+  "userName": "john Doe",
+  "userBio": "Flutter Developer ",
+  "location": "Nw York, NY",
+  "bio": "A software engineer with expertise in Forex trading, Flutter mobile development, and full-stack software engineering. Proficient in building cross-platform trading applications that integrate financial market knowledge with clean, scalable code. Passionate about creating intuitive solutions that combine market insights with user-centered design.",
+  "skills":"skills",
+  "personalInformation":"Personal Information",
+  "selectLanguage":"Select Language",
+  "english":"English",
+  "farsi":"Farsi",
+  "email":"Email",
+  "password":"Password",
+  "postsNumber" : "150",
+  "posts":"posts",
+  "followersNumber":"120k",
+   "followers":"Followers",
+  "projectsNumber":"128",
+  "projects":"projects",
+  "devSign" : "Made with Flutter"
+}
+    
